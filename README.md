@@ -1,24 +1,30 @@
-# Networking Basics
-
-This repository contains networking concepts required for Linux, DevOps, Cloud, and System Administration interviews.
-
-## Topics
-
-1. OSI Model
-2. TCP/IP Model
-3. IP Addressing
-4. Subnetting
-5. DNS
-6. DHCP
-7. TCP vs UDP
-8. Ports and Protocols
-9. Routing
-10. Switching
-11. NAT
-12. Firewall
-13. VPN
-14. HTTP & HTTPS
-15. SSH
-16. Ping & Traceroute
-17. Network Troubleshooting
-18. Linux Network Commands
+# Network-engineering-notes
+Comprehensive networking concepts, protocols, troubleshooting, Linux networking commands, and interview preparation notes.
+network-engineering-notes/
+│
+├── README.md
+├── Fundamentals/
+│   ├── OSI-Model.md
+│   ├── TCP-IP-Model.md
+│   ├── IP-Addressing.md
+│   └── Subnetting.md
+│
+├── Protocols/
+│   ├── DNS.md
+│   ├── DHCP.md
+│   ├── HTTP-HTTPS.md
+│   ├── SSH.md
+│   └── FTP.md
+│
+├── Networking-Devices/
+│   ├── Router.md
+│   ├── Switch.md
+│   ├── Firewall.md
+│   └── Load-Balancer.md
+│
+├── Troubleshooting/
+│   ├── Network-Troubleshooting.md
+│   └── Linux-Network-Commands.md
+│
+└── Interview-Questions/
+    └── Networking-Interview-QA.md
