@@ -1,32 +1,92 @@
 # OSI Model
 
-OSI (Open Systems Interconnection) model consists of 7 layers.
+OSI (Open Systems Interconnection) Model is a conceptual framework used to understand network communication.
 
-1. Physical Layer
-2. Data Link Layer
-3. Network Layer
-4. Transport Layer
-5. Session Layer
-6. Presentation Layer
-7. Application Layer
+## Layer 7 – Application Layer
 
-## Easy Mnemonic
+Protocols:
+- HTTP
+- HTTPS
+- FTP
+- SMTP
+- DNS
 
-Please Do Not Throw Sausage Pizza Away
+Responsibilities:
+- User interaction
+- Application services
 
-## Network Layer
+---
 
-- IP Addressing
-- Routing
+## Layer 6 – Presentation Layer
 
-## Transport Layer
+Responsibilities:
+- Encryption
+- Compression
+- Translation
 
+Examples:
+- TLS
+- SSL
+- JPEG
+
+---
+
+## Layer 5 – Session Layer
+
+Responsibilities:
+- Session establishment
+- Session maintenance
+- Session termination
+
+---
+
+## Layer 4 – Transport Layer
+
+Protocols:
 - TCP
 - UDP
 
-## Application Layer
+Responsibilities:
+- Reliability
+- Flow Control
+- Segmentation
 
-- HTTP
-- HTTPS
-- DNS
-- FTP
+---
+
+## Layer 3 – Network Layer
+
+Protocols:
+- IP
+- ICMP
+- OSPF
+- BGP
+
+Responsibilities:
+- Routing
+- Logical addressing
+
+Devices:
+- Routers
+
+---
+
+## Layer 2 – Data Link Layer
+
+Responsibilities:
+- MAC addressing
+- Frame forwarding
+
+Devices:
+- Switches
+
+---
+
+## Layer 1 – Physical Layer
+
+Responsibilities:
+- Bit transmission
+
+Devices:
+- Fiber cables
+- Ethernet cables
+- Hubs
