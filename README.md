@@ -1,30 +1,24 @@
-# Network-engineering-notes
-Comprehensive networking concepts, protocols, troubleshooting, Linux networking commands, and interview preparation notes.
-network-engineering-notes/
-│
-├── README.md
-├── Fundamentals/
-│   ├── OSI-Model.md
-│   ├── TCP-IP-Model.md
-│   ├── IP-Addressing.md
-│   └── Subnetting.md
-│
-├── Protocols/
-│   ├── DNS.md
-│   ├── DHCP.md
-│   ├── HTTP-HTTPS.md
-│   ├── SSH.md
-│   └── FTP.md
-│
-├── Networking-Devices/
-│   ├── Router.md
-│   ├── Switch.md
-│   ├── Firewall.md
-│   └── Load-Balancer.md
-│
-├── Troubleshooting/
-│   ├── Network-Troubleshooting.md
-│   └── Linux-Network-Commands.md
-│
-└── Interview-Questions/
-    └── Networking-Interview-QA.md
+# Networking Topics for DevOps Engineers
+
+## Contents
+
+1. OSI Model
+2. TCP/IP Model
+3. IP Addressing
+4. Subnetting & CIDR
+5. DNS
+6. DHCP
+7. ARP
+8. TCP vs UDP
+9. Routing
+10. OSPF
+11. BGP
+12. VLAN
+13. VPN
+14. Firewall
+15. Load Balancer
+16. Reverse Proxy
+17. AWS Networking
+18. TLS/SSL
+19. CDN
+20. Network Monitoring
