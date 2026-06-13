@@ -2,23 +2,23 @@
 
 ## Contents
 
-01-Networking-Basics.md
-02-OSI-Model.md
-03-TCP-IP-Model.md
-04-IP-Addressing.md
-05-Subnetting.md
-06-MAC-Address.md
-07-DNS.md
-08-DHCP.md
-09-ARP.md
-10-TCP-vs-UDP.md
-11-Ports-and-Protocols.md
-12-Routing.md
-13-Switching.md
-14-VLAN.md
-15-Firewall.md
-16-VPN.md
-17-Load-Balancer.md
-18-HTTP-vs-HTTPS.md
-19-SSL-TLS.md
-20-AWS-Networking.md
+Networking-Basics.md
+OSI-Model.md
+TCP-IP-Model.md
+IP-Addressing.md
+Subnetting.md
+MAC-Address.md
+DNS.md
+DHCP.md
+ARP.md
+TCP-vs-UDP.md
+Ports-and-Protocols.md
+Routing.md
+Switching.md
+VLAN.md
+Firewall.md
+VPN.md
+Load-Balancer.md
+HTTP-vs-HTTPS.md
+SSL-TLS.md
+AWS-Networking.md
