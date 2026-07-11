@@ -1,13 +1,13 @@
-# 🌐 Networking Repository
+# 🌐 Networking-concepts
 
-Welcome to the **Networking Repository**! This repository contains comprehensive networking concepts from beginner to advanced level. It is designed to help students, AWS Cloud learners, DevOps engineers, and IT professionals build a strong foundation in computer networking.
+Welcome to the **Networking-concepts**! This repository contains comprehensive networking concepts from beginner to advanced level. It is designed to help students, AWS Cloud learners, DevOps engineers, and IT professionals build a strong foundation in computer networking.
 
 ---
 
 ## 📂 Repository Structure
 
 ```
-Networking/
+Networking-concepts/
 │
 ├── README.md
 │
